@@ -1,0 +1,25 @@
+{
+  "name": "webpack_training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuRuGuMaWaRu/webpack_training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuRuGuMaWaRu/webpack_training/issues"
+  },
+  "homepage": "https://github.com/GuRuGuMaWaRu/webpack_training#readme",
+  "devDependencies": {
+    "css-loader": "^0.25.0",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1"
+  }
+}
